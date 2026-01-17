@@ -1,50 +1,27 @@
-# Remix IDE Blank Template
+# Solidity 学习仓库
 
-Welcome to your new **Remix IDE Blank Workspace**!
+## Web3 2026 冬季实习计划 （LXDAO）
 
-This workspace has been generated using the "Blank Template" option in Remix IDE. It starts with only minimal configuration files, giving you full control to build your project from scratch.
+> 不要被学术界的思维限制头脑，不要被程序员的思维限制了想象力
 
----
+欢迎来到我的 Solidity 学习之旅！🚀
 
-## What's Included?
+这个仓库是我个人学习和实践 Solidity 智能合约开发的记录空间。作为一名区块链开发的学习者，我在这里整理代码示例、实验项目和笔记文档。
 
-- **`remix.config.json`**: Default Remix IDE workspace configuration.
-- **`.prettierrc.json`**: Basic Prettier formatting rules for code consistency.
+## 📖 关于这个仓库
 
-No contract files, folders, or sample code are included.
+- **目的**：系统性学习 Solidity 语言和智能合约开发
+- **状态**：持续更新中，跟随我的学习进度同步更新
+- **定位**：个人学习笔记与代码实验场
 
----
+## 🛠️ 技术栈
 
-## Getting Started
+- **主要语言**：Solidity (^0.8.0)
 
-1. **Create Files & Folders**
+## 🤝 欢迎交流与指教
 
-   - Add new Solidity files, scripts, or folders as needed for your project.
-   - You can organize your workspace structure in any way you like.
+作为一名学习者，代码中可能存在许多不足或错误。非常欢迎：
 
-2. **Setup Project Settings** (Optional)
-
-   - Modify `remix.config.json` or add additional configuration files as your project grows.
-
-3. **Write & Compile Smart Contracts**
-
-   - Use the **Solidity Compiler** and **Deploy & Run Transactions** plugins (available in Remix IDE's left sidebar) to develop and test your contracts.
-
-4. **(Optional) Initialize Git**
-
-   - If you checked "Initialize as a Git repository" during workspace creation, you can start committing your code immediately.
-
----
-
-## Useful Resources
-
-- [Remix IDE Documentation](https://remix-ide.readthedocs.io/)
-- [Solidity Language Documentation](https://docs.soliditylang.org/)
-- [Remix IDE Community Forum](https://forum.remix.ethereum.org/)
-
----
-
-Happy coding! 🚀 
-
-_Remix IDE Team_
-
+- **提出建议**：如果你有更好的实现方式或发现了代码中的问题
+- **技术讨论**：关于 Solidity 和智能合约开发的任何话题
+- **学习交流**：分享你的学习经验和资源
